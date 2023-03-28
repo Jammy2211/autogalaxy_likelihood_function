@@ -24,8 +24,8 @@ function of all approaches below:
 
 **Imaging Dataset + Parametric Light Profiles:**
 
-https://github.com/Jammy2211/autogalaxy_workspace/blob/master/notebooks/imaging/log_likelihood_function/parametric.ipynb
+https://github.com/Jammy2211/autogalaxy_workspace/blob/main/notebooks/imaging/advanced/log_likelihood_function/parametric.ipynb
 
 **Imaging Dataset + Pixelized Reconstruction:**
 
-https://github.com/Jammy2211/autogalaxy_workspace/blob/master/notebooks/imaging/log_likelihood_function/pixelized.ipynb
+https://github.com/Jammy2211/autogalaxy_workspace/blob/main/notebooks/imaging/advanced/log_likelihood_function/pixelized.ipynb
